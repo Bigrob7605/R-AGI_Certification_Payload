@@ -7,7 +7,7 @@ This document introduces the foundational theory behind the R-AGI framework—a 
 How to use:
 Read this first for the conceptual framework, guiding principles, and high-level design behind the R-AGI protocol. Ideal for researchers, auditors, and anyone who wants to understand why this tech works.
 
-2. Kai Core – All In One – AGI Bootstrap.pdf
+2. Kai Core - All In One - AGI Bootstrap V1.0 - 100 Percent Review This Seed.pdf
 The essential, all-in-one manual for deploying, operating, and evolving a recursive AGI using R-AGI standards. It covers architecture, bootstrapping, system commands, operational flows, and agent management in one place.
 
 How to use:

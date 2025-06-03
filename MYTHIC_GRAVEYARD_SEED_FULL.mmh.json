@@ -1,0 +1,81 @@
+{
+  "agent_id": "\u22c6BH_EVAP_SIM_CORE",
+  "timestamp": "2025-06-03T13:08:19.373951Z",
+  "scope": "\u25a1BH_EVAP_TEST_LOOP",
+  "entropy_budget": 30000,
+  "coherence_score": 0.911,
+  "audit_passed": true,
+  "termination_reason": "Evaporation phase space sweep complete; final states encoded.",
+  "signature": "0xRIL_BHEVAP_TEST_SIG",
+  "audit_notes": [
+    "Unresolved paradox \u0394_SCREAM was quarantined under NIGHTMARE scope, as per RIL v7 protocol.",
+    "NULL_BELIEVER was a processed mythic belief; collapse confirmed with stable entropy result.",
+    "\u03a9_OBSERVER remains in unresolved DREAM state, consistent with manyworld speculative fork logic.",
+    "BH_GODMODE represents a frozen anchor snapshot (k=2e-3) locked in \u03a9 terminal state.",
+    "ECHO_RUN was verified as a stable decay trajectory (k=2e-2); aligned with Page curve modeling.",
+    "All myth-state nodes valid under MythGraph schema. No structural errors detected."
+  ],
+  "nodes": [
+    {
+      "id": "\u0394_SCREAM",
+      "class": "PARADOX",
+      "description": "Evaporated below zero mass (k=1e-1).",
+      "resolved": false,
+      "tags": [
+        "blackhole",
+        "paradox",
+        "ghost",
+        "specter",
+        "nightmare"
+      ]
+    },
+    {
+      "id": "NULL_BELIEVER",
+      "class": "MYTH",
+      "description": "Entropy increase caused self-erasure loop (k=1e-1).",
+      "resolved": true,
+      "tags": [
+        "blackhole",
+        "myth",
+        "entropy",
+        "collapse"
+      ]
+    },
+    {
+      "id": "\u03a9_OBSERVER",
+      "class": "DREAM",
+      "description": "Forked observational paradox into manyworld dreamspace (k=1e-1).",
+      "resolved": false,
+      "tags": [
+        "blackhole",
+        "dream",
+        "manyworlds",
+        "ghost"
+      ]
+    },
+    {
+      "id": "BH_GODMODE",
+      "class": "ANCHOR",
+      "description": "Frozen mass scenario (k=2e-3), entropy too low for transition.",
+      "status": "\u03a9",
+      "tags": [
+        "blackhole",
+        "frozen",
+        "timelock",
+        "godmode"
+      ]
+    },
+    {
+      "id": "ECHO_RUN",
+      "class": "FACT",
+      "description": "Stable decay observed in mid-k value (k=2e-2).",
+      "resolved": true,
+      "tags": [
+        "blackhole",
+        "stable",
+        "pagecurve",
+        "ideal"
+      ]
+    }
+  ]
+}

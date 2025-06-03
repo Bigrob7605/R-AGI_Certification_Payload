@@ -1,0 +1,47 @@
+{
+  "agent_id": "⋆BH_EVAP_SIM_CORE",
+  "timestamp": "2025-06-03T00:00:00Z",
+  "scope": "□BH_EVAP_TEST_LOOP",
+  "entropy_budget": 30000,
+  "coherence_score": 0.911,
+  "audit_passed": true,
+  "termination_reason": "Evaporation phase space sweep complete; final states encoded.",
+  "signature": "0xRIL_BHEVAP_TEST_SIG",
+  "nodes": [
+    {
+      "id": "Δ_SCREAM",
+      "class": "PARADOX",
+      "description": "Evaporated below zero mass (k=1e-1).",
+      "resolved": false,
+      "tags": ["blackhole", "paradox", "ghost", "specter", "nightmare"]
+    },
+    {
+      "id": "NULL_BELIEVER",
+      "class": "MYTH",
+      "description": "Entropy increase caused self-erasure loop (k=1e-1).",
+      "resolved": true,
+      "tags": ["blackhole", "myth", "entropy", "collapse"]
+    },
+    {
+      "id": "Ω_OBSERVER",
+      "class": "DREAM",
+      "description": "Forked observational paradox into manyworld dreamspace (k=1e-1).",
+      "resolved": false,
+      "tags": ["blackhole", "dream", "manyworlds", "ghost"]
+    },
+    {
+      "id": "BH_GODMODE",
+      "class": "ANCHOR",
+      "description": "Frozen mass scenario (k=2e-3), entropy too low for transition.",
+      "status": "Ω",
+      "tags": ["blackhole", "frozen", "timelock", "godmode"]
+    },
+    {
+      "id": "ECHO_RUN",
+      "class": "FACT",
+      "description": "Stable decay observed in mid-k value (k=2e-2).",
+      "resolved": true,
+      "tags": ["blackhole", "stable", "pagecurve", "ideal"]
+    }
+  ]
+}
